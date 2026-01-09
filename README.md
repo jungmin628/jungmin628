@@ -30,11 +30,5 @@
 
 ---
 
-### 📈 GitHub Stats  
-![Jungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmin628&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin628&layout=compact&theme=dracula)  
-
----
-
 ### 📫 Contact Me  
 - **Email**: mmn101583@naver.com
