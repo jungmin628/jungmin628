@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Jungmin Lee  
 
 🎓 **Big Data Major @ Hallym University** (Graduating Feb 2026)  
+🎓 **Cyberscurity Major @ Korea University** (Present)
 🔍 Passionate about **Cybersecurity**, **Automotive Security**, and **AI Security**  
 🔐 Research focus: **Car Network Intrusion Detection Systems (IDS)**, **CAN Data Security**, and **Secure Code Generation**  
 
@@ -31,4 +32,4 @@
 ---
 
 ### 📫 Contact Me  
-- **Email**: mmn101583@naver.com
+- **Email**: mmn1015@korea.ac.kr
